@@ -7,3 +7,9 @@
   C: Practica 1\C\output/Practica1.exe
   
   C Sharp: Practica 1\C Sharp\Practica1\bin\Debug\net6.0/Practica1.exe
+
+  
+# Practica 1
+  Se realizaco la práctica de traducción de lenguaje en C Sharp *para ejecutar el programa vaya a la siguientes rutas del repositorio*
+
+  C Sharp: Practica2\bin\Debug\net8.0/Practica2.exe
