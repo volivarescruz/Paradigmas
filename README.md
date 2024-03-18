@@ -13,3 +13,11 @@
   Se realizaco la práctica de traducción de lenguaje en C Sharp *para ejecutar el programa vaya a la siguientes rutas del repositorio*
 
   C Sharp: Practica2\bin\Debug\net8.0/Practica2.exe
+
+#Practica 3
+  Se realizaco la práctica de traducción de lenguaje en C Sharp *para ejecutar el programa vaya a la siguientes rutas del repositorio*
+  
+  Empleando los principios de la programación funcional (funciones puras), crea un programa que funcione como calculadora. 
+  Dicha calculadora deberá realizar al menos 10 funciones.  en c#
+
+  C Sharp: Practica 3\Ejercicio3\bin\Debug\net6.0\Ejercico3.exe
