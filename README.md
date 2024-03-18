@@ -14,7 +14,7 @@
 
   C Sharp: Practica2\bin\Debug\net8.0/Practica2.exe
 
-#Practica 3
+# Practica 3
   Se realizaco la práctica de traducción de lenguaje en C Sharp *para ejecutar el programa vaya a la siguientes rutas del repositorio*
   
   Empleando los principios de la programación funcional (funciones puras), crea un programa que funcione como calculadora. 
