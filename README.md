@@ -21,3 +21,8 @@
   Dicha calculadora deberá realizar al menos 10 funciones.  en c#
 
   C Sharp: Practica 3\Ejercicio3\bin\Debug\net6.0\Ejercico3.exe
+
+# Practica 4
+  A partir de los ejemplos presentados la clase pasada, crea una nueva versión de la clase Persona, la cual tenga de cinco a 10 atributos.
+
+  El programa deberá hacerse en java y python.
