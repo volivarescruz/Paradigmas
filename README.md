@@ -26,3 +26,6 @@
   A partir de los ejemplos presentados la clase pasada, crea una nueva versión de la clase Persona, la cual tenga de cinco a 10 atributos.
 
   El programa deberá hacerse en java y python.
+
+# Practica 6
+  POO en Java y Python
